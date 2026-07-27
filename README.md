@@ -18,7 +18,7 @@ Background in Microbiology and Biotechnology (University of Nairobi) — an unco
 |---|---|
 | 🔭 **Currently building** | Production Go backend services at Zone01 Kisumu |
 | 🌱 **Currently exploring** | LLM/AI-assisted tooling and real-time systems |
-| 💼 **Prior experience** | 3 years freelance full stack development (MERN + PostgreSQL) |
+| 💼 **Prior experience** | 3 years freelance full stack development  |
 | 🎓 **Education** | BSc Microbiology & Biotechnology, UoN · Software Engineering, ALX Africa |
 | 📍 **Location** | Nairobi, Kenya |
 | 📫 **Reach me** | waoremaxwel17@gmail.com |
