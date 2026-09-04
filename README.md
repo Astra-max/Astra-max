@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:FA173D&height=200&section=header&text=Waore%20Maxwel%20Odongo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1B2A,100:29AB87&height=200&section=header&text=Waore%20Maxwel%20Odongo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Astra-max">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FA173D&center=true&vCenter=true&width=600&lines=Go+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+scalable+web+apps+end-to-end;Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=29AB87&center=true&vCenter=true&width=600&lines=Go+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+scalable+web+apps+end-to-end;Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG" />
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=Astra-max&color=29AB87&style=flat-square&label=Profile+Views" alt="Profile views" />
 
 </div>
 
@@ -16,9 +18,9 @@ Background in Microbiology and Biotechnology (University of Nairobi) — an unco
 
 | | |
 |---|---|
-| 🔭 **Currently building** | Production Go backend services at Zone01 Kisumu |
+| 🔭 **Currently building** | Full-stack features on Swiftze at The Tann Mann Gaadi |
 | 🌱 **Currently exploring** | LLM/AI-assisted tooling and real-time systems |
-| 💼 **Prior experience** | 3 years freelance full stack development  |
+| 💼 **Prior experience** | Zone01 Kisumu · 3 years freelance full stack development |
 | 🎓 **Education** | BSc Microbiology & Biotechnology, UoN · Software Engineering, ALX Africa |
 | 📍 **Location** | Nairobi, Kenya |
 | 📫 **Reach me** | waoremaxwel17@gmail.com |
@@ -35,6 +37,8 @@ Background in Microbiology and Biotechnology (University of Nairobi) — an unco
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -53,6 +57,7 @@ Background in Microbiology and Biotechnology (University of Nairobi) — an unco
 <br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 
@@ -96,12 +101,12 @@ Background in Microbiology and Biotechnology (University of Nairobi) — an unco
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Astra-max&show_icons=true&theme=dark&hide_border=true&bg_color=0D1B2A&title_color=FA173D&icon_color=FA173D&text_color=ffffff&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astra-max&layout=compact&theme=dark&hide_border=true&bg_color=0D1B2A&title_color=FA173D&text_color=ffffff&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Astra-max&show_icons=true&theme=dark&hide_border=true&bg_color=0D1B2A&title_color=29AB87&icon_color=29AB87&text_color=ffffff&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astra-max&layout=compact&theme=dark&hide_border=true&bg_color=0D1B2A&title_color=29AB87&text_color=ffffff&cache_seconds=1800" />
 
-<img src="https://streak-stats.demolab.com/?user=Astra-max&theme=dark&hide_border=true&background=0D1B2A&ring=FA173D&fire=FA173D&currStreakLabel=FA173D" />
+<img src="https://streak-stats.demolab.com/?user=Astra-max&theme=dark&hide_border=true&background=0D1B2A&ring=29AB87&fire=29AB87&currStreakLabel=29AB87" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Astra-max&theme=react-dark&bg_color=0D1B2A&color=FA173D&line=FA173D&point=ffffff&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Astra-max&theme=react-dark&bg_color=0D1B2A&color=29AB87&line=29AB87&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
@@ -128,10 +133,10 @@ Background in Microbiology and Biotechnology (University of Nairobi) — an unco
 <div align="center">
 
 <a href="https://github.com/Astra-max/ai-agents">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astra-max&repo=ai-agents&theme=dark&bg_color=0D1B2A&title_color=FA173D&text_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astra-max&repo=ai-agents&theme=dark&bg_color=0D1B2A&title_color=29AB87&text_color=ffffff&hide_border=true" />
 </a>
 <a href="https://github.com/Astra-max/astec">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astra-max&repo=astec&theme=dark&bg_color=0D1B2A&title_color=FA173D&text_color=ffffff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astra-max&repo=astec&theme=dark&bg_color=0D1B2A&title_color=29AB87&text_color=ffffff&hide_border=true" />
 </a>
 
 </div>
@@ -177,13 +182,13 @@ Migrated a production client platform from a legacy codebase to React, rebuildin
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FA173D,100:0D1B2A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:29AB87,100:0D1B2A&height=100&section=footer" width="100%"/>
 
 ---
 
 ### 🔧 Setup notes
 
 1. **This file** → create a public repo named exactly `Astra-max` (matching your GitHub username), and put this as `README.md` in it. GitHub then shows it at the top of your profile automatically.
-2. **Typing SVG / wave banners / trophies / activity graph** → work immediately, no setup — they're stateless services reading your public GitHub data live.
+2. **Typing SVG / wave banners / trophies / activity graph / profile-views counter** → work immediately, no setup — they're stateless services reading your public GitHub data live (the profile-views badge just counts renders of the image, so it starts ticking up as soon as the README is live).
 3. **Stats + top languages cards** → work immediately too, but occasionally show a broken image when the shared public instance is rate-limited (see the note above the stats section). If this happens often, self-hosting is the permanent fix.
 4. **Snake animation** → needs a GitHub Action in this same repo to actually generate the SVG. Add the `snake.yml` file (provided earlier) at `.github/workflows/snake.yml`, commit it, then run it once from the **Actions** tab.
