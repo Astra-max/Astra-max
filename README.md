@@ -19,7 +19,7 @@ Background in Microbiology and Biotechnology (University of Nairobi) — an unco
 | | |
 |---|---|
 | 🔭 **Currently building** | Full-stack features on Swiftze at The Tann Mann Gaadi |
-| 🌱 **Currently exploring** | LLM/AI-assisted tooling and real-time systems |
+| 🌱 **Currently exploring** | LLM/AI-assisted tooling — Gemini Live API, real-time streaming agents |
 | 💼 **Prior experience** | Zone01 Kisumu · 3 years freelance full stack development |
 | 🎓 **Education** | BSc Microbiology & Biotechnology, UoN · Software Engineering, ALX Africa |
 | 📍 **Location** | Nairobi, Kenya |
@@ -96,6 +96,20 @@ Background in Microbiology and Biotechnology (University of Nairobi) — an unco
 </td>
 </tr>
 </table>
+
+## LLM & AI Tooling
+
+<div align="center">
+
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Gemini Live API](https://img.shields.io/badge/Gemini_Live_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![LLM Agents](https://img.shields.io/badge/LLM_Agents-29AB87?style=flat-square)
+![Streaming](https://img.shields.io/badge/Realtime_Streaming-29AB87?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-29AB87?style=flat-square)
+
+</div>
+
+Hands-on building with the **Gemini Live API** for real-time, bidirectional voice streaming — including a raw-PCM audio encode/decode pipeline for live mic input and low-latency AI voice playback — plus asynchronous prompt handling, response streaming, and structured feedback loops for agentic workflows.
 
 ## GitHub Stats
 
