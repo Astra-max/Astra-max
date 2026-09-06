@@ -20,7 +20,7 @@ Background in Microbiology and Biotechnology (University of Nairobi) — an unco
 |---|---|
 | 🔭 **Currently building** | Full-stack features on Swiftze at The Tann Mann Gaadi |
 | 🌱 **Currently exploring** | LLM/AI-assisted tooling — Gemini Live API, real-time streaming agents |
-| 💼 **Prior experience** | Zone01 Kisumu · 3 years freelance full stack development |
+| 💼 **Prior experience** | Zone01 Kisumu · 2 years freelance full stack development |
 | 🎓 **Education** | BSc Microbiology & Biotechnology, UoN · Software Engineering, ALX Africa |
 | 📍 **Location** | Nairobi, Kenya |
 | 📫 **Reach me** | waoremaxwel17@gmail.com |
