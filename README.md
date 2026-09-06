@@ -12,7 +12,7 @@
 
 ## About
 
-Full Stack Software Developer with 3+ years designing, building, and maintaining scalable web applications, RESTful APIs, and backend systems. Core stack is Go, React, TypeScript, Node.js, and PostgreSQL, with hands-on experience in JWT-based authentication, RBAC, third-party integrations, and CI/CD pipelines.
+Full Stack Software Developer with 2+ years designing, building, and maintaining scalable web applications, RESTful APIs, and backend systems. Core stack is Go, React, TypeScript, Node.js, and PostgreSQL, with hands-on experience in JWT-based authentication, RBAC, third-party integrations, and CI/CD pipelines.
 
 Background in Microbiology and Biotechnology (University of Nairobi) — an unconventional route into engineering that shapes how I approach debugging and system design: first-principles, hypothesis-driven, methodical.
 
